@@ -76,9 +76,7 @@ public class ColorTheme extends Application{
 		gridPane.setVgap(20);
 		//gridPane.setGridLinesVisible(true);
 		
-		Group group = new Group();
-		
-		
+
 		  int x = -55;
 		  int position = 0;
 		  
